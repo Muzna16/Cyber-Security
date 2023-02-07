@@ -5,4 +5,5 @@ This course is designed to provide a comprehensive introduction to the field of 
 # Course Content
 Topics include security fundamentals, network security, encryption, threat management, incident response, and compliance. You will learn how to identify, assess, and mitigate various types of cyber threats, and how to develop and implement effective security strategies. Throughout the course, you will also gain hands-on experience with industry-standard tools and techniques, and learn about current cyber security trends and challenges.
 
-Presentation link https://docs.google.com/presentation/d/1peuq6NJb0sySXzPQF-jmuBDXN1fVsKMd2Ki9E81TV0Y/edit?usp=sharing
+Presentation link: https://docs.google.com/presentation/d/1peuq6NJb0sySXzPQF-jmuBDXN1fVsKMd2Ki9E81TV0Y/edit?usp=sharing
+Networking Fundamentals: https://docs.google.com/document/d/1VNPM-scl0QRYvEcxlZDHQzuheusOpBmDgFarzWqr6no/edit?usp=sharing
